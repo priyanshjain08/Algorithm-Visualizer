@@ -275,33 +275,7 @@ Everything is contained inside the HTML file.
 
 ## 🚀 Getting Started
 
-### Option 1 — Open directly
-
-Simply open:
-
-```text
-AlgorithmVisualiser.html
-```
-
-in a modern web browser.
-
-No installation is required.
-
-### Option 2 — Run with a local server
-
-For a local development environment, you can use any simple HTTP server.
-
-For example:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
+https://priyanshjain08.github.io/Algorithm-Visualizer/
 
 ---
 
